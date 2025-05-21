@@ -1,0 +1,10 @@
+[compute]
+region = us-central1
+
+[dataproc]
+region = us-central1
+
+[core]
+project = demoespecialidadgcp
+account = 502688298240-compute@developer.gserviceaccount.com
+

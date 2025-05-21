@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "/home/jupyter/.cache/pypoetry/virtualenvs/opendataqna-tLJI7Oaf-py3.10/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "openqna-venv",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
